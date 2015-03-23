@@ -1,3 +1,4 @@
+username:         rainbowbo
 # Dependencies
 markdown:         rdiscount
 highlighter:      pygments
@@ -8,8 +9,8 @@ encoding:         "utf-8"
 permalink:        pretty
 
 # Setup
-title:            HuS
-tagline:          'Time is limited, To be a better man'
+title:            编程人生
+tagline:          '斯人若彩虹'
 description:      'Hello,World! Here is my personal weblog about technology and life.'
 #url:              http://shelldone.com
 
@@ -23,7 +24,7 @@ paginate:         5
 version:          1.0.0
 
 # duoshuo
-comments :
-    provider : duoshuo
-    duoshuo :
-      short_name : rainbow
+#comments :
+ #   provider : duoshuo
+ #   duoshuo :
+   #   short_name : rainbow
