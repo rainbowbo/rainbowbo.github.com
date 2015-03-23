@@ -11,12 +11,12 @@ permalink:        pretty
 title:            HuS
 tagline:          'Time is limited, To be a better man'
 description:      'Hello,World! Here is my personal weblog about technology and life.'
-url:              http://shelldone.com
+#url:              http://shelldone.com
 
 author:
   name:           'Rainbowbo'
-  url:            https://github.com/Rainbowbo
-
+  url:            https://github.com/rainbowbo
+baseurl: /blog
 paginate:         5
 
 # Custom vars
