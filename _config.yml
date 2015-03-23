@@ -14,8 +14,8 @@ description:      'Hello,World! Here is my personal weblog about technology and 
 url:              http://shelldone.com
 
 author:
-  name:           'SooHu'
-  url:            https://github.com/SooHu
+  name:           'Rainbowbo'
+  url:            https://github.com/Rainbowbo
 
 paginate:         5
 
@@ -26,4 +26,4 @@ version:          1.0.0
 comments :
     provider : duoshuo
     duoshuo :
-      short_name : soohu
+      short_name : rainbow
